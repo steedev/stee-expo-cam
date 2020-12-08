@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expo CameraApp Settings
 
 ## Co zrobiłem dodatkowo?
@@ -22,8 +21,7 @@ Wszystkie zmiany widoczne w commicie `Add RadioButton`
 <br>
 
 ### Pozdrawiam i życzę dużo zdrowia `Jakub Kuś`
-=======
-# expo-cam
 
-https://expo.io/@steedev/projects/CameraAppSettings
->>>>>>> d6b994a0e0499c05d8151ddf22b270e1fa4bf8af
+## Stare repozytorium (podłączyłem expo pod gita przez co pojawiły się konflikty z pushem)
+
+https://github.com/steedev/expo-cam
